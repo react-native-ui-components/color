@@ -21,7 +21,7 @@
 	"devDependencies": {
 		"@react-native-ui-components/eslint-config": "^1.0.3",
 		"@react-native-ui-components/prettier-config": "^1.0.0",
-		"@types/react": "^18.2.18",
+		"@types/react": "^18.2.19",
 		"eslint": "^8.46.0",
 		"prettier": "^3.0.1"
 	}
