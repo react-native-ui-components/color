@@ -1,6 +1,6 @@
 {
 	"name": "@react-native-ui-components/color",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Color module for React Native",
 	"main": "lib/commonjs/index",
 	"module": "lib/module/index",
